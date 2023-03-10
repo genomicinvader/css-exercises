@@ -1,5 +1,22 @@
+*{
+font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+    
+}
+
 .odd{
-    background-color: pink;
+    background-color: #ffc0cb;
     font-family: Verdana, 'DejaVu Sans', 'sans-serif';
     
+}
+#large-blue{
+    font-size: 36px;
+    color: #0000ff;
+}
+.odd.large{
+    font-size: 24px;
+}
+#large-bold{
+    font-weight: bold;
+    background-color: #90ee90;
+    font-size: 24px;
 }
